@@ -1,0 +1,11 @@
+F:\Source\VB\callerId\ModCallerId\ModCallerId\bin\Release\ModCallerId.exe.config
+F:\Source\VB\callerId\ModCallerId\ModCallerId\bin\Release\ModCallerId.exe
+F:\Source\VB\callerId\ModCallerId\ModCallerId\bin\Release\ModCallerId.pdb
+F:\Source\VB\callerId\ModCallerId\ModCallerId\bin\Release\ar-EG\ModCallerId.resources.dll
+F:\Source\VB\callerId\ModCallerId\ModCallerId\obj\Release\ModCallerId.frmCallerId.resources
+F:\Source\VB\callerId\ModCallerId\ModCallerId\obj\Release\ModCallerId.Properties.Resources.resources
+F:\Source\VB\callerId\ModCallerId\ModCallerId\obj\Release\ModCallerId.frmCallerId.ar-EG.resources
+F:\Source\VB\callerId\ModCallerId\ModCallerId\obj\Release\ModCallerId.csproj.GenerateResource.Cache
+F:\Source\VB\callerId\ModCallerId\ModCallerId\obj\Release\ar-EG\ModCallerId.resources.dll
+F:\Source\VB\callerId\ModCallerId\ModCallerId\obj\Release\ModCallerId.exe
+F:\Source\VB\callerId\ModCallerId\ModCallerId\obj\Release\ModCallerId.pdb

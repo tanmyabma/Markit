@@ -1,0 +1,6 @@
+﻿'ConnectionType ( L , R , E , M )
+ConnectionType      = l
+ServerName          = PDC
+ServerIP            = 192.168.1.200
+DbName              = DbCoreReplication
+DBInstanceName      = SQLEXPRESSTANMYA
